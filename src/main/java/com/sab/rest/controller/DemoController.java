@@ -8,7 +8,7 @@ public class DemoController {
 
     @RequestMapping("/get")
     public  String  sample(){
-        System.out.println("SOP for jenkins build");
+        System.out.println("SOP for jenkins build purpose");
         return "Its working";
     }
 
