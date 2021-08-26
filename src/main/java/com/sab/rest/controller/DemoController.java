@@ -8,7 +8,7 @@ public class DemoController {
 
     @RequestMapping("/get")
     public  String  sample(){
-        return "Sabreen Its Working Now";
+        return "Sabreen Its Working Sir";
     }
 
 }
